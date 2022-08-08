@@ -77,15 +77,15 @@ Durante este taller, aprenderá los detalles especificos de cómo construir, imp
 https://vmware-se.s3.amazonaws.com/Instructions.pdf
 
 
-13:00-13:30 Introduction  Tanzu Application Platform 
+13:00-13:30 Introducción a Tanzu Application Platform 
 
-13:30-14:30 Interactive Hands-On Workshop: The Developer Experience (Application Accelerator, IDE Tools, Development, Live View, Submitting the Build) 
+13:30-14:30 Taller práctico interactivo: la experiencia del desarrollador (acelerador de aplicaciones, herramientas IDE, desarrollo, vista en vivo, envío a compilación) 
 
 14:30-14:45 Break 
 
-14:45- 15:45 Interactive Hands-On Workshop: The Operator Experience (Workload, Supply Chain, Deliverable) 
+14:45- 15:45 Taller práctico interactivo: la experiencia del operador (cargas de trabajo, Supply Chain, entregables)
 
-15:45 – 16:00 PM : Closing and Quiz for Prizes 
+15:45 – 16:00 PM : Cierre y premios
 
  
 
