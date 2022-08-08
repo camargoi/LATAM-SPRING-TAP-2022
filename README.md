@@ -1,4 +1,4 @@
-# LATAM TOUR SPRING + Tanzu Application Platfotm TAP 2022
+# LATAM TOUR SPRING + Tanzu Application Platform TAP 2022
 <p align="left">
   <img src="image.png" width="600" title="hover text">
 </p>
