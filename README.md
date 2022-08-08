@@ -41,7 +41,7 @@ Tambien vamos a estar introduciendo de manera practica la plataforma de aplicaci
 
 Icebreaker - Menti
 
-Spring Track 
+# Spring Track 
 
   10:15-10:45  
 
@@ -70,7 +70,7 @@ Spring Track
 
 12:00-13:00 Almuerzo 
 
-  Tanzu Application Platform Track 
+  # Tanzu Application Platform Track 
 
   Durante este taller, aprenderá los detalles especificos de cómo construir, implementar, actualizar y mantener aplicaciones en cualquier plataforma de     Kubernetes de una manera sencilla, mejorando la experiencia del desarrollador.
 
