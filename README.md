@@ -97,4 +97,8 @@ Internal:
 
 TAP Overview: https://portal.end2end.link/ 
 
+<p align="left">
+  <img src="presenters.png" width="600" title="hover text">
+</p>
+
  
