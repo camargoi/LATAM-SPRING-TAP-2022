@@ -1,6 +1,6 @@
 # LATAM Tour Spring Day + Tanzu Application Platform TAP 2022
 <p align="left">
-  <img src="image.png" width="600" title="hover text">
+  <img src="image.png" width="500" title="hover text">
 </p>
 
 
