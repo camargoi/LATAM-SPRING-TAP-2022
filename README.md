@@ -1,4 +1,4 @@
-<img src="LATAM-SPRING-TAP-2022/image.png" width="350" title="hover text"> 
+<img src="image.png" width="350" title="hover text"> 
 
 # LATAM-SPRING-TAP-2022
 
