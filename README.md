@@ -93,7 +93,9 @@ Icebreaker - Menti
 
 
 
-Material de apoyo: 
+
+
+# Material de apoyo: 
 
   Qué es Kubernetes con un foco en Java https://github.com/Albertoimpl/k8s-for-the-busy 
  
