@@ -1,8 +1,7 @@
+# LATAM-SPRING-TAP-2022
 <p align="left">
   <img src="image.png" width="600" title="hover text">
 </p>
-
-# LATAM-SPRING-TAP-2022
 
 
 Este es un repositorio creado para desarrollar los talleres de spring en Kubernetes y Tanzu Application Platform
