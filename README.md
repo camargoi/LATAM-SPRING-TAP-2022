@@ -1,6 +1,6 @@
 <p align="center">
   <img src="image.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="image.png" width="350" alt="accessibility text">
 </p>
 
 # LATAM-SPRING-TAP-2022
