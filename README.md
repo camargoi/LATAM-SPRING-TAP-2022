@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" width="800" title="hover text">
+  <img src="image.png" width="600" title="hover text">
 </p>
 
 # LATAM-SPRING-TAP-2022
