@@ -28,78 +28,82 @@ Tambien vamos a estar introduciendo de manera practica la plataforma de aplicaci
 
 Agenda 
 
-10:00-10:15 Introducción al evento:
+  10:00-10:15 Introducción al evento:
 
-Marco Mendoza VMware Tanzu AE, Ruben Dillon VMware Tanzu SE.
+  Marco Mendoza VMware Tanzu AE, Ruben Dillon VMware Tanzu SE.
 
-Presentadores:
+  Presentadores:
 
-Alberto Calleja - Staff Engineer Spring at VMware Tanzu
+  Alberto Calleja - Staff Engineer Spring at VMware Tanzu
 
-Iván Camargo - Sr Technical Specialist at VMware Tanzu
+  Iván Camargo - Sr Technical Specialist at VMware Tanzu
 
 
 Icebreaker - Menti
 
 Spring Track 
 
-10:15-10:45  
+  10:15-10:45  
 
-¿Intro Spring, novedades, futuro ?
+  ¿Intro Spring, novedades, futuro ?
 
-Spring en Kubernetes, antes y después 
+  Spring en Kubernetes, antes y después 
 
-Q&A 
+  Q&A 
 
 10:45-12:00 Workshop Spring en Kubernetes 
 
-Spring on Kubernetes Workshop: https://tanzu.vmware.com/developer/workshops/ 
+  Spring on Kubernetes Workshop: https://tanzu.vmware.com/developer/workshops/ 
 
-Durante este taller, aprenderá los detalles especificos de cómo crear, compilar, ejecutar y depurar una aplicación Spring Boot básica en Kubernetes haciendo lo siguiente:
+  Durante este taller, aprenderá los detalles especificos de cómo crear, compilar, ejecutar y depurar una aplicación Spring Boot básica en Kubernetes       haciendo lo siguiente:
 
-Crear una aplicación Spring Boot básica
-Cree una imagen de Docker para la aplicación
-Empuje la imagen a un registro de Docker
-Implemente y ejecute la aplicación en Kubernetes
-Pruebe la aplicación mediante el reenvío de puertos y la entrada
-Use skaffold para iterar fácilmente mientras trabaja en su aplicación
-Use kustomize para administrar configuraciones en todos los entornos
-Externalizar la configuración de la aplicación usando ConfigMaps
-Use el descubrimiento de servicios para la comunicación de aplicación a aplicación
-Implemente la aplicación Spring PetClinic con MySQL
+  Crear una aplicación Spring Boot básica
+  Cree una imagen de Docker para la aplicación
+  Empuje la imagen a un registro de Docker
+  Implemente y ejecute la aplicación en Kubernetes
+  Pruebe la aplicación mediante el reenvío de puertos y la entrada
+  Use skaffold para iterar fácilmente mientras trabaja en su aplicación
+  Use kustomize para administrar configuraciones en todos los entornos
+  Externalizar la configuración de la aplicación usando ConfigMaps
+  Use el descubrimiento de servicios para la comunicación de aplicación a aplicación
+  Implemente la aplicación Spring PetClinic con MySQL
 
 12:00-13:00 Almuerzo 
 
-Tanzu Application Platform Track 
+  Tanzu Application Platform Track 
 
-Durante este taller, aprenderá los detalles especificos de cómo construir, implementar, actualizar y mantener aplicaciones en cualquier plataforma de Kubernetes de una manera sencilla, mejorando la experiencia del desarrollador.
+  Durante este taller, aprenderá los detalles especificos de cómo construir, implementar, actualizar y mantener aplicaciones en cualquier plataforma de     Kubernetes de una manera sencilla, mejorando la experiencia del desarrollador.
 
-https://vmware-se.s3.amazonaws.com/Instructions.pdf
+  https://vmware-se.s3.amazonaws.com/Instructions.pdf
 
 
 13:00-13:30 Introducción a Tanzu Application Platform 
 
-13:30-14:30 Taller práctico interactivo: la experiencia del desarrollador (acelerador de aplicaciones, herramientas IDE, desarrollo, vista en vivo, envío a compilación) 
+13:30-14:30 Taller práctico interactivo: 
+
+  La experiencia del desarrollador (acelerador de aplicaciones, herramientas IDE, desarrollo, vista en vivo, envío a compilación) 
 
 14:30-14:45 Break 
 
-14:45- 15:45 Taller práctico interactivo: la experiencia del operador (cargas de trabajo, Supply Chain, entregables)
+14:45- 15:45 Taller práctico interactivo: 
+
+  La experiencia del operador (cargas de trabajo, Supply Chain, entregables)
 
 15:45 – 16:00 PM : Cierre y premios
 
- 
+
 
 Material de apoyo: 
 
-Qué es Kubernetes con un foco en Java https://github.com/Albertoimpl/k8s-for-the-busy 
+  Qué es Kubernetes con un foco en Java https://github.com/Albertoimpl/k8s-for-the-busy 
  
 
 TAP Architecture: 
 
-https://github.com/vmware-tanzu-labs/tanzu-validated-solutions/blob/main/src/reference-designs/tap-architecture-planning.md 
+  https://github.com/vmware-tanzu-labs/tanzu-validated-solutions/blob/main/src/reference-designs/tap-architecture-planning.md 
 
  
-Kubernetes local development workflow distilled 
+  Kubernetes local development workflow distilled 
 
 
 Internal: 
