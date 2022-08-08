@@ -18,7 +18,7 @@ Pre requisitos:
 - Laptop con un acceso a internet (2MB), navegador Google Chrome o Mozilla en sus ultimas versiones
 
 
-Abstract: 
+Resumen: 
 
 Este espacio fue creado para tener una experiencia real en las últimas tecnologías para el desarrollador. Vamos a estar compartiendo algunas novedades de Spring. Spring hace que programar Java sea más rápido, fácil y seguro para todos. El enfoque de Spring en la velocidad, la simplicidad y la productividad lo ha convertido en el marco Java más popular del mundo. https://spring.io/
 
