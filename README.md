@@ -28,7 +28,16 @@ Tambien vamos a estar introduciendo de manera practica la plataforma de aplicaci
 
 Agenda 
 
-10:00-10:15 Introducción al evento, Marco, Ruben 
+10:00-10:15 Introducción al evento:
+
+Marco Mendoza VMware Tanzu AE, Ruben Dillon VMware Tanzu SE.
+
+Presentadores:
+
+Alberto Calleja - Staff Engineer Spring at VMware Tanzu
+
+Iván Camargo - Sr Technical Specialist at VMware Tanzu
+
 
 Icebreaker - Menti
 
