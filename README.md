@@ -26,7 +26,7 @@ Tambien vamos a estar introduciendo de manera practica la plataforma de aplicaci
 
  
 
-Agenda 
+# Agenda 
 
   10:00-10:15 Introducción al evento:
 
