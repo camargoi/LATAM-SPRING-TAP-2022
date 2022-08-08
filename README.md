@@ -20,9 +20,9 @@ Pre requisitos:
 
 Abstract: 
 
-Este espacio fue creado para tener una experiencia real en las últimas tecnologías para el desarrollador. Vamos a estar compartiendo algunas novedades de Spring Framework, Spring hace que programar Java sea más rápido, fácil y seguro para todos. El enfoque de Spring en la velocidad, la simplicidad y la productividad lo ha convertido en el marco Java más popular del mundo. https://spring.io/
+Este espacio fue creado para tener una experiencia real en las últimas tecnologías para el desarrollador. Vamos a estar compartiendo algunas novedades de Spring. Spring hace que programar Java sea más rápido, fácil y seguro para todos. El enfoque de Spring en la velocidad, la simplicidad y la productividad lo ha convertido en el marco Java más popular del mundo. https://spring.io/
 
-Tambien vamos a estar introduciendo de manera practica la plataforma de aplicaciones de tanzu. TAP VMware Tanzu Application Platform es una plataforma modular que proporciona un amplio conjunto de herramientas para desarrolladores y un camino preparado para la producción para crear e implementar software de forma rápida y segura en cualquier clúster de Kubernetes local o en la nube pública compatible.
+Tambien vamos a estar introduciendo de manera practica la plataforma de aplicaciones de tanzu. TAP VMware Tanzu Application Platform es una plataforma modular que proporciona un amplio conjunto de herramientas para desarrolladores y un camino preparado para la producción para crear e implementar software de forma rápida y segura en cualquier clúster de Kubernetes local o en la nube pública compatible. https://tanzu.vmware.com/application-platform
 
  
 
