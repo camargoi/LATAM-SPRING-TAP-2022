@@ -4,29 +4,29 @@
 </p>
 
 
-Este es un repositorio creado para desarrollar los talleres de spring en Kubernetes y Tanzu Application Platform
+Este es un repositorio creado para desarrollar los talleres de spring en Kubernetes y Tanzu Application Platform.
 
 
-SOLA Tour Spring, Kubernetes y TAP 
+## SOLA Tour Spring, Kubernetes y TAP 
 
  
 
 Pre requisitos: 
 
-- Conocimientos básicos en tecnologias de Spring
+- Conocimientos básicos en tecnologías de Spring
 - Conocimientos básicos en Kubernetes
-- Laptop con un acceso a internet (2MB), navegador Google Chrome o Mozilla en sus ultimas versiones
+- Laptop con un acceso a internet (2MB), navegador Google Chrome o Mozilla en sus últimas versiones
 
 
 Resumen: 
 
 Este espacio fue creado para tener una experiencia real en las últimas tecnologías para el desarrollador. Vamos a estar compartiendo algunas novedades de Spring. Spring hace que programar Java sea más rápido, fácil y seguro para todos. El enfoque de Spring en la velocidad, la simplicidad y la productividad lo ha convertido en el marco Java más popular del mundo. https://spring.io/
 
-Tambien vamos a estar introduciendo de manera practica la plataforma de aplicaciones de tanzu. TAP VMware Tanzu Application Platform es una plataforma modular que proporciona un amplio conjunto de herramientas para desarrolladores y un camino preparado para la producción para crear e implementar software de forma rápida y segura en cualquier clúster de Kubernetes local o en la nube pública compatible. https://tanzu.vmware.com/application-platform
+También vamos a estar introduciendo de manera práctica la plataforma de aplicaciones de Tanzu. TAP VMware Tanzu Application Platform es una plataforma modular que proporciona un amplio conjunto de herramientas para desarrolladores y un camino preparado para la producción, para crear e implementar software de forma rápida y segura en cualquier clúster de Kubernetes local o en cualquier nube pública compatible. https://tanzu.vmware.com/application-platform
 
  
 
-# Agenda 
+### Agenda 
 
   10:00-10:15 Introducción al evento:
 
@@ -34,26 +34,24 @@ Tambien vamos a estar introduciendo de manera practica la plataforma de aplicaci
 
   Presentadores:
 
-  Alberto Calleja - Staff Engineer Spring at VMware Tanzu
+  Alberto Calleja Ríos - Staff Engineer - Spring Engineering at VMware Tanzu
 
   Iván Camargo - Sr Technical Specialist at VMware Tanzu
 
 
 Icebreaker - Menti
 
-# Spring Track 
+### Spring Track 
 
   10:15-10:45  
 
-  ¿Intro Spring, novedades, futuro ?
-
-  Spring en Kubernetes, antes y después 
+  [Spring antes, ahora y después](https://docs.google.com/presentation/d/1AgIchZnDVnJxG5ldWeroGMItnZeWbjK56dFksq5fOq4/edit?usp=sharing)
 
   Q&A 
 
 10:45-12:00 Workshop Spring en Kubernetes 
 
-  Spring on Kubernetes Workshop: https://tanzu.vmware.com/developer/workshops/ 
+  [Spring on Kubernetes Workshop](https://tanzu.vmware.com/developer/workshops/) 
 
   Durante este taller, aprenderá los detalles especificos de cómo crear, compilar, ejecutar y depurar una aplicación Spring Boot básica en Kubernetes       haciendo lo siguiente:
 
@@ -66,11 +64,11 @@ Icebreaker - Menti
   Use kustomize para administrar configuraciones en todos los entornos
   Externalizar la configuración de la aplicación usando ConfigMaps
   Use el descubrimiento de servicios para la comunicación de aplicación a aplicación
-  Implemente la aplicación Spring PetClinic con MySQL
+  Implemente la aplicación Spring PetClinic con MySQL.
 
 12:00-13:00 Almuerzo 
 
-  # Tanzu Application Platform Track 
+### Tanzu Application Platform Track 
 
   Durante este taller, aprenderá los detalles especificos de cómo construir, implementar, actualizar y mantener aplicaciones en cualquier plataforma de     Kubernetes de una manera sencilla, mejorando la experiencia del desarrollador.
 
@@ -95,10 +93,35 @@ Icebreaker - Menti
 
 
 
-# Material de apoyo: 
+### Material de apoyo: 
 
-  Qué es Kubernetes con un foco en Java https://github.com/Albertoimpl/k8s-for-the-busy 
+  Qué es Kubernetes con un foco en Java: https://github.com/Albertoimpl/k8s-for-the-busy 
  
+  Patrones con Spring Cloud Gateway: https://www.youtube.com/watch?v=mTY9EP-PgJM
+
+  Spring Cloud Gateway on Kubernetes: https://spring.io/blog/2021/05/04/spring-cloud-gateway-for-kubernetes
+
+  Hola mundo con Java y Spring boot: https://github.com/Albertoimpl/hello-java-kubernetes
+
+  Vulnerabilidades en Dockerhub: https://www.infoq.com/news/2020/12/dockerhub-image-vulnerabilities/
+
+  Dockerhub: https://hub.docker.com/
+
+  Harbor: https://goharbor.io/
+
+  Cloud code plugin: https://plugins.jetbrains.com/plugin/8079-cloud-code
+
+  Dockerfile: https://github.com/albertoimpl/hello-java-kubernetes/blob/main/Dockerfile
+
+  Dockerfile compejo: https://github.com/docker-library/python/blob/master/3.10/alpine3.16/Dockerfile
+
+  Buildpacks: https://buildpacks.io/features/#comparison
+
+  Kubernetes in Docker: https://kind.sigs.k8s.io/
+
+  Octant: https://github.com/vmware-tanzu/octant
+
+  Kustomize: https://kustomize.io/
 
 TAP Architecture: 
 
