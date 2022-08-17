@@ -82,6 +82,8 @@ sencilla, mejorando la experiencia del desarrollador.
 
 https://vmware-se.s3.amazonaws.com/Instructions.pdf
 
+[Tanzu Application Platform] (https://drive.google.com/file/d/1G1AJ0BfpKzGfkhoJXP6rBBf636PPrhHQ/view?usp=sharing)
+
 13:00-13:30 Introducción a Tanzu Application Platform
 
 13:30-14:30 Taller práctico interactivo:
