@@ -85,7 +85,7 @@ sencilla, mejorando la experiencia del desarrollador.
 
 [Tanzu Application Platform](https://docs.google.com/presentation/d/1pxusCnTJxgHt47yle9rbuCoIBUcpqmhR/edit?usp=sharing&ouid=112891771648131852053&rtpof=true&sd=true)
 
-[Link de acceso al laboratorio](https://tap-handson-ui.tap.corby.cc.)
+[Link de acceso al laboratorio](https://tap-handson-ui.tap.corby.cc)
 
 Password:tap-workshop
 
