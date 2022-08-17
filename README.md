@@ -80,11 +80,14 @@ Durante este taller, aprenderá los detalles especificos de cómo construir, imp
 actualizar y mantener aplicaciones en cualquier plataforma de Kubernetes de una manera
 sencilla, mejorando la experiencia del desarrollador.
 
-https://vmware-se.s3.amazonaws.com/Instructions.pdf
+
+13:00-13:30 Introducción a Tanzu Application Platform
+
 
 [Tanzu Application Platform](https://docs.google.com/presentation/d/1pxusCnTJxgHt47yle9rbuCoIBUcpqmhR/edit?usp=sharing&ouid=112891771648131852053&rtpof=true&sd=true)
 
-13:00-13:30 Introducción a Tanzu Application Platform
+https://tap-handson-ui.tap.corby.cc.
+Password:tap-workshop
 
 13:30-14:30 Taller práctico interactivo:
 
