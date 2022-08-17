@@ -85,9 +85,11 @@ sencilla, mejorando la experiencia del desarrollador.
 
 [Tanzu Application Platform](https://docs.google.com/presentation/d/1pxusCnTJxgHt47yle9rbuCoIBUcpqmhR/edit?usp=sharing&ouid=112891771648131852053&rtpof=true&sd=true)
 
+
 [Link de acceso al laboratorio](https://tap-handson-ui.tap.corby.cc)
 
 Password:tap-workshop
+
 
 13:30-14:30 Taller práctico interactivo:
 
@@ -141,6 +143,10 @@ Kubernetes local development workflow distilled: https://youtu.be/xG89qVn4Gx4?t=
 
 Arquitectura de Tanzu Application
 Platform: https://github.com/vmware-tanzu-labs/tanzu-validated-solutions/blob/main/src/reference-designs/tap-architecture-planning.md
+
+Backstage: https://backstage.io/
+
+Cartographer: https://cartographer.sh/
 
 Internal:
 
