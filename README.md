@@ -87,6 +87,7 @@ sencilla, mejorando la experiencia del desarrollador.
 [Tanzu Application Platform](https://docs.google.com/presentation/d/1pxusCnTJxgHt47yle9rbuCoIBUcpqmhR/edit?usp=sharing&ouid=112891771648131852053&rtpof=true&sd=true)
 
 https://tap-handson-ui.tap.corby.cc.
+
 Password:tap-workshop
 
 13:30-14:30 Taller práctico interactivo:
