@@ -150,6 +150,14 @@ Cartographer: https://cartographer.sh/
 
 TAP Public Documentation: https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/index.html
 
+Application Accelerators en TAP: https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.2/tap/GUID-application-accelerator-about-application-accelerator.html 
+
+Creating Accelerators en TAP: https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.2/tap/GUID-application-accelerator-creating-accelerators-creating-accelerators.html 
+
+Writing Application Accelerators en TAP: https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.2/tap/GUID-application-accelerator-creating-accelerators-accelerator-yaml.html
+
+
+
 Internal:
 
 TAP Overview: https://portal.end2end.link/
