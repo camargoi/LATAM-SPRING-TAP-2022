@@ -148,6 +148,8 @@ Backstage: https://backstage.io/
 
 Cartographer: https://cartographer.sh/
 
+TAP Public Documentation: https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/index.html
+
 Internal:
 
 TAP Overview: https://portal.end2end.link/
