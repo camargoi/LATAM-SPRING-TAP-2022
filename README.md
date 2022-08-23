@@ -56,7 +56,7 @@ Q&A
 
 10:45-12:00 Workshop Spring en Kubernetes
 
-[Spring on Kubernetes Workshop](https://tanzu.vmware.com/developer/workshops/)
+[Spring on Kubernetes Workshop](https://tanzu.vmware.com/developer/workshops/spring-on-kubernetes/)
 
 Durante este taller, aprenderá los detalles especificos de cómo crear, compilar, ejecutar
 y depurar una aplicación Spring Boot básica en Kubernetes haciendo lo siguiente:
